@@ -1,0 +1,5 @@
+interface:
+  display_name: "New Project"
+  short_description: "Scaffold a project folder and matching GitHub repo"
+policy:
+  allow_implicit_invocation: false
